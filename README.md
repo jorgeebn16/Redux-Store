@@ -1,1 +1,2 @@
-# redux-store
+# Redux-Store
+State Challenge: Redux Store
