@@ -1,5 +1,5 @@
 # Redux-Store
-Week 22 - State Challenge: Redux Store
+UCF Bootcamp Week 22 - State Challenge: Redux Store
 
 
 ## Table of Contents
